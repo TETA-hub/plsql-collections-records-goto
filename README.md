@@ -89,7 +89,7 @@ The system manages:
 **What it does:** Demonstrates how Collections, Records, and GOTO work together in a real system
 
 ---
-Execute the files in the following order:
+Execute the files in the following order(the attached files include the codesi i used):
 
 ### Step 1: Setup Database
 ```sql
@@ -99,25 +99,25 @@ This creates all tables and inserts sample data.
 
 ### Step 2: Run Collections Demo
 ```sql
-SQL> @02_collections_example.sql
+SQL> 02_collections_example.sql
 ```
 This demonstrates Associative Arrays, Nested Tables, and VARRAYs.
 
 ### Step 3: Run Records Demo
 ```sql
-SQL> @03_records_example.sql
+SQL> 03_records_example.sql
 ```
 This demonstrates table-based, user-defined, and nested records.
 
 ### Step 4: Run GOTO Demo
 ```sql
-SQL> @04_goto_example.sql
+SQL> 04_goto_example.sql
 ```
 This demonstrates GOTO statements for flow control.
 
 ### Step 5: Run Complete System
 ```sql
-SQL> @05_complete_system.sql
+SQL> 05_complete_system.sql
 ```
 This runs the integrated system using all concepts.
 
@@ -148,5 +148,8 @@ This runs the integrated system using all concepts.
 - Complete book inventory with status
 - Library statistics (total books, available, borrowed)
 - Professional formatted report
+
+## SCREENSHOTS
+#The File screenshots include all the images i took while doing this assignment,
 
 ---
