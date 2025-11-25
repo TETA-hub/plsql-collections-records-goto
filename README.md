@@ -12,7 +12,7 @@ The system manages:
 - Overdue book tracking
 
 ## Features Demonstrated
-1. Collections: Store multiple books and borrowers
+1. **Collections**: Store multiple books and borrowers
 2. **Records**: Organize book and member information
 3. **GOTO Statements**: Handle overdue book warnings and error conditions
 
