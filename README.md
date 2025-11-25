@@ -36,7 +36,7 @@ The system manages:
 ### 1. `01_setup.sql`
 **Purpose:** Database initialization  
 **Contains:**
-- DROP statements to clean existing tables
+
 - CREATE TABLE statements for all three tables
 - INSERT statements with sample data (5 members, 5 books, 5 records)
 - COMMIT to save changes
