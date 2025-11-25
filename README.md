@@ -121,34 +121,6 @@ SQL> 05_complete_system.sql
 ```
 This runs the integrated system using all concepts.
 
- ## Expected Output
-
-### From 01_setup.sql:
-- Confirmation that tables are created
-- Display of inserted members and books
-- Success message
-
-### From 02_collections_example.sql:
-- List of all books with availability (Associative Array)
-- List of overdue member IDs (Nested Table)
-- List of book categories (VARRAY)
-- Collection counts and statistics
-
-### From 03_records_example.sql:
-- Book information using table-based record
-- Transaction details using user-defined record
-- Complete member info using nested record
-
-### From 04_goto_example.sql:
-- Book availability check results
-- Member status verification
-- Transaction approval or rejection message
-
-### From 05_complete_system.sql:
-- Complete book inventory with status
-- Library statistics (total books, available, borrowed)
-- Professional formatted report
-
 ## SCREENSHOTS
 #The File screenshots include all the images i took while doing this assignment,
 
