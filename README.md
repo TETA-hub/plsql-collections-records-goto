@@ -93,7 +93,7 @@ Execute the files in the following order:
 
 ### Step 1: Setup Database
 ```sql
-SQL> @01_setup.sql
+SQL> 01_setup.sql
 ```
 This creates all tables and inserts sample data.
 
